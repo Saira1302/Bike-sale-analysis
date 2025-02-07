@@ -6,6 +6,7 @@ This project focus on analyzing a dataset of bike sales from a bike shop. The da
 - Customer Information: Income, marital status, gender, age, education, occupation, region, number of children.
 - Bike Details: Bike category, brand, price.
 - Sales Information: Purchase date, store location, sales channel.
+![dash](https://github.com/user-attachments/assets/c7f51a06-7b5b-4a1e-ba4a-446098698e73)
 
 # Key Activities:
 
